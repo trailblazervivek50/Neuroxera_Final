@@ -1,0 +1,11 @@
+{
+  "name": "Facial EMG Neuromuscular Monitor",
+  "description": "6-channel real-time surface electromyography (sEMG) biosignal oscilloscope, facial muscle tracking, symmetry diagnostics, and neuromuscular gesture decoder.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
